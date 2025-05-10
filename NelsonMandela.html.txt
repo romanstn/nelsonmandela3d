@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Mandela 3D</title></head>
+  <body style="margin:0;">
+    <iframe 
+      title="Nelson Mandela" 
+      frameborder="0" 
+      allowfullscreen 
+      mozallowfullscreen="true" 
+      webkitallowfullscreen="true" 
+      width="100%" 
+      height="100%" 
+      src="https://skfb.ly/6CLrK">
+    </iframe>
+  </body>
+</html>
